@@ -19,4 +19,4 @@ THEN the saved events persist
 ![Screenshot of Webpage Mock Up](./week5screenshot.png)
 
 ## Link to Deployed Application 
-Open the Work Day Scheduler [URL]() in your browser. 
+Open the Work Day Scheduler [URL](https://jennyferconstanza.github.io/WorkDayScheduler/) in your browser. 
